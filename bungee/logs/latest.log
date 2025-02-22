@@ -73,3 +73,68 @@ java.lang.IllegalArgumentException: Server icon must be exactly 64x64 pixels
 [18:02:23] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49014]: Logged in as 'FiredangerFN'
 [18:02:23] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49014|FiredangerFN] -> UpstreamBridge has connected
 [18:02:23] [Netty Worker IO Thread #0/INFO]: [FiredangerFN|/[0:0:0:0:0:0:0:1%0]:49014] <-> ServerConnector [lobby] has connected
+[18:03:53] [Netty Worker IO Thread #0/INFO]: [FiredangerFN] disconnected with: Server closed
+[18:03:53] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49014|FiredangerFN] -> UpstreamBridge has disconnected
+[18:03:53] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49014|FiredangerFN] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:04:23] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36504]: Connected via websocket
+[18:04:23] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36504]: Origin header is null
+[18:04:23] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36504]: Logged in as 'FiredangerFN'
+[18:04:23] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36504|FiredangerFN] -> UpstreamBridge has connected
+[18:04:23] [Netty Worker IO Thread #1/INFO]: [FiredangerFN|/[0:0:0:0:0:0:0:1%0]:36504] <-> ServerConnector [lobby] has connected
+[18:11:57] [Netty Worker IO Thread #1/INFO]: [FiredangerFN] disconnected with: Server closed
+[18:11:57] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36504|FiredangerFN] -> UpstreamBridge has disconnected
+[18:11:57] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36504|FiredangerFN] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:12:45] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54684]: Connected via websocket
+[18:12:45] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54684]: Origin header is null
+[18:12:45] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54684]: Logged in as 'FiredangerFN'
+[18:12:45] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54684|FiredangerFN] -> UpstreamBridge has connected
+[18:12:45] [Netty Worker IO Thread #3/INFO]: [FiredangerFN|/[0:0:0:0:0:0:0:1%0]:54684] <-> ServerConnector [lobby] has connected
+[18:33:55] [Netty Worker IO Thread #3/INFO]: [FiredangerFN] disconnected with: [LoginSecurity] Exceeded max login tries: 5
+[18:33:55] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54684|FiredangerFN] -> UpstreamBridge has disconnected
+[18:33:55] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54684|FiredangerFN] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:34:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35288]: Connected via websocket
+[18:34:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35288]: Origin header is null
+[18:34:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35288]: Logged in as 'FiredangerFN'
+[18:34:01] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35288|FiredangerFN] -> UpstreamBridge has connected
+[18:34:01] [Netty Worker IO Thread #0/INFO]: [FiredangerFN|/[0:0:0:0:0:0:0:1%0]:35288] <-> ServerConnector [lobby] has connected
+[18:39:12] [Netty Worker IO Thread #0/INFO]: [FiredangerFN] disconnected with: Server closed
+[18:39:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35288|FiredangerFN] -> UpstreamBridge has disconnected
+[18:39:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35288|FiredangerFN] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:47:00] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42276]: Connected via websocket
+[18:47:00] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42276]: Origin header is null
+[18:47:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42276]: Logged in as 'FiredangerFN'
+[18:47:01] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:42276|FiredangerFN] -> UpstreamBridge has connected
+[18:47:01] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for FiredangerFN AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:47:01] [Netty Worker IO Thread #1/INFO]: [FiredangerFN] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:47:01] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:42276|FiredangerFN] -> UpstreamBridge has disconnected
+[18:47:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56824]: Connected via websocket
+[18:47:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56824]: Origin header is null
+[18:47:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56824]: Logged in as 'FiredangerFN'
+[18:47:34] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:56824|FiredangerFN] -> UpstreamBridge has connected
+[18:47:34] [Netty Worker IO Thread #2/INFO]: [FiredangerFN|/[0:0:0:0:0:0:0:1%0]:56824] <-> ServerConnector [lobby] has connected
+[18:47:50] [Netty Worker IO Thread #2/INFO]: [FiredangerFN] disconnected with: Server closed
+[18:47:50] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:56824|FiredangerFN] -> UpstreamBridge has disconnected
+[18:47:50] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:56824|FiredangerFN] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:48:07] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46990]: Connected via websocket
+[18:48:07] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46990]: Origin header is null
+[18:48:08] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46990]: Logged in as 'FiredangerFN'
+[18:48:08] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:46990|FiredangerFN] -> UpstreamBridge has connected
+[18:48:08] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for FiredangerFN AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:48:08] [Netty Worker IO Thread #3/INFO]: [FiredangerFN] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:48:08] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:46990|FiredangerFN] -> UpstreamBridge has disconnected
+[18:49:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51314]: Connected via websocket
+[18:49:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51314]: Origin header is null
+[18:49:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51314]: Logged in as 'FiredangerFN'
+[18:49:00] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:51314|FiredangerFN] -> UpstreamBridge has connected
+[18:49:00] [Netty Worker IO Thread #0/INFO]: [FiredangerFN|/[0:0:0:0:0:0:0:1%0]:51314] <-> ServerConnector [lobby] has connected
+[18:50:11] [Netty Worker IO Thread #0/INFO]: [FiredangerFN] disconnected with: Server closed
+[18:50:11] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:51314|FiredangerFN] -> UpstreamBridge has disconnected
+[18:50:11] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:51314|FiredangerFN] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:51:15] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33634]: Connected via websocket
+[18:51:15] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33634]: Origin header is null
+[18:51:15] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33634]: Logged in as 'FiredangerFN'
+[18:51:15] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33634|FiredangerFN] -> UpstreamBridge has connected
+[18:51:15] [Netty Worker IO Thread #1/INFO]: [FiredangerFN|/[0:0:0:0:0:0:0:1%0]:33634] <-> ServerConnector [lobby] has connected
+[18:51:30] [Netty Worker IO Thread #1/INFO]: [FiredangerFN] disconnected with: Server is restarting
+[18:51:30] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33634|FiredangerFN] -> UpstreamBridge has disconnected
+[18:51:30] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33634|FiredangerFN] <-> DownstreamBridge <-> [lobby] has disconnected
