@@ -67,6 +67,7 @@ stats:
 world-settings:
   default:
     verbose: true
+    mob-spawn-range: 4
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -107,7 +108,6 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
-    mob-spawn-range: 4
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
