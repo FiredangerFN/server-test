@@ -1,1 +1,0 @@
-screen -x -R minecraft sh ./start.sh
