@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1740266055724
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740254236232
-  login: 1740253900266
+  logout: 1740266134737
+  login: 1740266099930
 money: '0'
+lastlocation:
+  world: 6570c590-73ae-461c-b9c9-7d214772451e
+  world-name: world
+  x: 110.93754121016505
+  y: 74.58816620781512
+  z: 230.82124674611526
+  yaw: -321.8752136230469
+  pitch: -5.8853068351745605
 logoutlocation:
   world: 6570c590-73ae-461c-b9c9-7d214772451e
   world-name: world
-  x: -259.01798694603207
-  y: 71.04290018287993
-  z: 448.6388817366633
-  yaw: -194.81787109375
-  pitch: 10.82945728302002
+  x: -60.29418669382347
+  y: 80.11555284174337
+  z: 199.2523556978711
+  yaw: -177.52806091308594
+  pitch: 28.69043731689453
 last-account-name: FiredangerFN
