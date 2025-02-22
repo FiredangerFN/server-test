@@ -98,3 +98,11 @@ java.lang.IllegalArgumentException: Server icon must be exactly 64x64 pixels
 [23:15:44] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for FiredangerFN AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [23:15:44] [Netty Worker IO Thread #1/INFO]: [FiredangerFN] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [23:15:44] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:37922|FiredangerFN] -> UpstreamBridge has disconnected
+[23:18:06] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56030]: Connected via websocket
+[23:18:06] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56030]: Origin header is null
+[23:18:07] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56030]: Logged in as 'FiredangerFN'
+[23:18:07] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:56030|FiredangerFN] -> UpstreamBridge has connected
+[23:18:07] [Netty Worker IO Thread #2/INFO]: [FiredangerFN|/[0:0:0:0:0:0:0:1%0]:56030] <-> ServerConnector [lobby] has connected
+[23:19:20] [Netty Worker IO Thread #2/INFO]: [FiredangerFN] disconnected with: Server closed
+[23:19:20] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:56030|FiredangerFN] -> UpstreamBridge has disconnected
+[23:19:20] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:56030|FiredangerFN] <-> DownstreamBridge <-> [lobby] has disconnected
